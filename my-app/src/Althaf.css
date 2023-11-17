@@ -1,0 +1,23 @@
+.Althaf{
+    background-color: rgb(255, 200, 127);
+    border: 2px solid;
+     width: 100px; 
+     height: 100px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 400px;
+    border-radius: 50px;
+
+    
+    
+}
+button{
+    margin: 10px;
+    margin-top: 20px;
+    border-radius: 50px;
+    background-color: aqua;
+  
+
+}
